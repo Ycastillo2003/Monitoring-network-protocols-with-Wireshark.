@@ -42,3 +42,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/user-attachments/assets/5d6882fc-e6d6-4343-82cb-616640958bea)
 
 - Adding port rule on the Ubuntu(linux) VM to block ICMP traffic.
+
+![image](https://github.com/user-attachments/assets/9eb0b03c-3884-4e0c-8dfd-15c78690748f)
+
+- Observing how our perpetual ping has timed out due to the new port rule on the Ubuntu(linux) VM.
