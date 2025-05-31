@@ -1,7 +1,7 @@
 eeeeee![image](https://github.com/user-attachments/assets/0b8a4496-fed1-4cb0-b303-7980c2b3b1ea)
 
 
-# Monitoring-network-protocols-with-Wireshark.
+# Monitoring and managing ICMP traffic with Azure and Wireshark.
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
