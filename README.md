@@ -49,4 +49,4 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/user-attachments/assets/3eadc146-2eb2-4af9-b10a-e2b38153a622)
 
-- Deleting our Port Rule that was denying icmp traffic.
+- Deleting our Port Rule that was denying ICMP traffic.
