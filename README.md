@@ -34,3 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/user-attachments/assets/658da4a9-fad2-4413-a38e-b58927bfb385)
 
 - Observing the Traffic in wireshark.
+
+![image](https://github.com/user-attachments/assets/3e8ef4f8-d54a-4ee7-8cfc-15da80da733a) ![image](https://github.com/user-attachments/assets/4ee7fd5b-16f5-4c26-b972-79750f86e92b)
+
+- Using ping -t to start a perpetual ping  and and obsersving the traffic.
