@@ -33,4 +33,4 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/user-attachments/assets/658da4a9-fad2-4413-a38e-b58927bfb385)
 
-- Observing the packets.
+- Observing the Traffic in wireshark.
