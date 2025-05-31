@@ -55,4 +55,3 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Ensuring that ICMP Traffic is being allowed from our Ubuntu(linux) VM and stopping the perpetual ping. 
 
- <a href="">Monitoring network protocols with Wireshark</a>☺</h1>
