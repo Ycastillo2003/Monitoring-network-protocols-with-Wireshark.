@@ -46,3 +46,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/user-attachments/assets/9eb0b03c-3884-4e0c-8dfd-15c78690748f)
 
 - Observing how our perpetual ping has timed out due to the new port rule on the Ubuntu(linux) VM.
+
+![image](https://github.com/user-attachments/assets/3eadc146-2eb2-4af9-b10a-e2b38153a622)
+
+- Deleting our Port Rule that was denying icmp traffic.
