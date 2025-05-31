@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/user-attachments/assets/5a60790b-b54f-49bb-a34e-857066fdd660)
 
-- Pinging our Ubuntu(linux VM from the Windoes 10 VM.
+- Pinging our Ubuntu(linux) VM from the Windoes 10 VM.
 
 ![image](https://github.com/user-attachments/assets/fa44cd77-b72c-46e4-8235-a18f5b47b2b4)
 
@@ -38,3 +38,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/user-attachments/assets/3e8ef4f8-d54a-4ee7-8cfc-15da80da733a) ![image](https://github.com/user-attachments/assets/4ee7fd5b-16f5-4c26-b972-79750f86e92b)
 
 - Using ping -t to start a perpetual ping  and and obsersving the traffic.
+
+![image](https://github.com/user-attachments/assets/5d6882fc-e6d6-4343-82cb-616640958bea)
+
+- Adding port rule on the Ubuntu(linux) VM to block ICMP traffic.
