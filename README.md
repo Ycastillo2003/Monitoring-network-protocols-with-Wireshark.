@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0133a35-7242-49ba-8c5a-89141c0b4984)
-
-
+![image](https://github.com/user-attachments/assets/f3be1e0f-6706-4f5e-be52-d24f55c4ca4c)
 
 
 # Monitoring-network-protocols-with-Wireshark.
