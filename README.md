@@ -53,4 +53,4 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/user-attachments/assets/e15a7b1b-c943-4f0b-9d73-28fce6b6e2ef)
 
-- Ensuring that ICMP Traffic is being allowed from our Ubuntu(linux).
+- Ensuring that ICMP Traffic is being allowed from our Ubuntu(linux) VM.
