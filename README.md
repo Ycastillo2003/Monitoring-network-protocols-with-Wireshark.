@@ -29,6 +29,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Pinging our Ubuntu(linux VM from the Windoes 10 VM.
 
-- ![image](https://github.com/user-attachments/assets/fa44cd77-b72c-46e4-8235-a18f5b47b2b4)
+![image](https://github.com/user-attachments/assets/fa44cd77-b72c-46e4-8235-a18f5b47b2b4)
 
 - Filtering in Wireshark to Icmp to observe imcp Traffic.
