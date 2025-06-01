@@ -14,7 +14,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Command Line tool Ping and Ping -t
 - Network Protocol ICMP
 - Wireshark (Protocol Analyzer)
-
+- Windows Powershell
+  
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
